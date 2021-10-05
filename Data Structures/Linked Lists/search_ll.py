@@ -2,6 +2,7 @@
 Function to search the linked list for the given value
 Input: lst --> linked list head, target --> value to search
 Return value: Found / Not Found 
+Technique: Linear search
 TC: O(n)
 SC: O(1) """
 
